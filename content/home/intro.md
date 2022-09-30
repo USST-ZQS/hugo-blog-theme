@@ -1,6 +1,6 @@
 ---
 # Use the Intro widget of the Blog template
-widget: about.avatar
+widget: about.QQ图片20220930150047
 
 # This file represents a page section.
 headless: true
