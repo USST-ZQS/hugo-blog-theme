@@ -6,7 +6,7 @@ title: Yang Cao (曹阳)
 superuser: true
 
 # Role/position
-role: 基础数学家
+role: PhD in USTC
 
 # Status emoji
 status:
