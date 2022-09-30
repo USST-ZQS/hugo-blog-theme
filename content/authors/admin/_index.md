@@ -14,7 +14,7 @@ status:
 
 # Organizations/Affiliations
 organizations:
-  - name: 中国科学技术大学
+  - name: 数学科学院
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
