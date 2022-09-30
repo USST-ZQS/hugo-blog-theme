@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Alice Bighetti (吳恩達)
+title: Yang Cao (曹阳)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 数据科学家
+role: 基础数学家
 
 # Status emoji
 status:
@@ -14,7 +14,7 @@ status:
 
 # Organizations/Affiliations
 organizations:
-  - name: 腾讯
+  - name: 中国科学技术大学
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,9 +27,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 #education:
 #  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
+#  - course: PhD in Topological Dynamics
+#    institution: University of Science and Technology ofChina
+#    year: 2023
 #  - course: MEng in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2009
