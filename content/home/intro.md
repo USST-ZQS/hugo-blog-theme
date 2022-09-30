@@ -18,6 +18,6 @@ author: admin
 #  css_class: fullscreen
 ---
 
-🐈 Hey! I'm **Alice**, a data scientist at Google.
+🐈 Hey! I'm **山南水北**, a PhD student in the Department of Mathematics in USTC.
 
 Check out my [CV](/about/) and blog posts below 🌈
